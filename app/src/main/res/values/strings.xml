@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PassPaper</string>
+    <string name="add_photograpgh">Add Photograpgh</string>
+    <string name="delete">DELETE</string>
+    <string name="view_photo_list">View Photo List</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="add_artist">Add Artist</string>
+    <string name="photo_name">Photo Name</string>
+    <string name="partist_name">Artist name</string>
+    <string name="PhotoName">Photo Name</string>
+    <string name="Artist">Artist Name</string>
+    <string name="Photo_Category">Photo Category</string>
+    <string name="Photograph" />
+    <string name="ph">Photograph</string>
+    <string name="Enter_Artist">Enter Photography Name</string>
+    <string name="UploadP">Upload Image</string>
+    <string name="deleteP">Delete Photo</string>
+    <string name="DeleteA">Delete Artist</string>
+    <string name="x">Enter Artist Name</string>
+    <string name="deleteText">Delete Artist / Photography</string>
+    <string name="viewX">View Photograph List</string>
+    <string name="search">Search</string>
+</resources>
